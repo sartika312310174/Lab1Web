@@ -4,7 +4,7 @@
 ![Screenshot (407)](https://github.com/user-attachments/assets/1d408bc1-7c74-497c-95a1-12a7602e0942)
 #  Mengubah paragraf jadi ada di sebelah kanan dengan perintah <p align="right"
  ![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
-#  Mengubah semua paragraf jadi ada di tengah 
+#  Mengubah semua paragraf jadi ada di tengah dengan perintah <p align="center"
 ![Screenshot (409)](https://github.com/user-attachments/assets/4325a1a1-55d5-461b-af7b-22553ee57701)
 #  Menambahkan judul 
 ![Screenshot (410)](https://github.com/user-attachments/assets/9965cd7f-b501-4106-af4d-eff9494683ba)
