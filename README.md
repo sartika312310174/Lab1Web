@@ -9,11 +9,11 @@
 ![Screenshot (409)](https://github.com/user-attachments/assets/4325a1a1-55d5-461b-af7b-22553ee57701)
 #  Menambahkan judul 
 ![Screenshot (410)](https://github.com/user-attachments/assets/9965cd7f-b501-4106-af4d-eff9494683ba)
-#  Memformat teks
+#  Mengubah penempatan paragraf
 ![Screenshot (411)](https://github.com/user-attachments/assets/7aa8fcbd-cf3f-4856-bd39-027d6021f110)
-#  Menyisipkan gambar
+#  Memformat teks
 ![Screenshot (412)](https://github.com/user-attachments/assets/450a07e3-7b6b-4bd8-b00f-20fb40520922)
-#  Mengubah ukuran gambar
+#  Menyisipkan gambar
 ![Screenshot (413)](https://github.com/user-attachments/assets/c55a70ce-6df6-4737-91f2-f2277007beb8)
 #  Mengubah ukuran gambar dengan mengisi atribut widht dan height
 ![Screenshot (415)](https://github.com/user-attachments/assets/da72f95b-699a-44d4-84b6-c1dbdab5d1b3)
