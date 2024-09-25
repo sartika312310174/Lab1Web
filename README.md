@@ -1,30 +1,30 @@
 # Lab1Web
 # PRAKTIKUM 1
 # Membuat paragraf 
-membuat paragraf dengan tag <p, lalu di tambahkan tag <br untuk membuat garis baru.
+Membuat paragraf dengan tag <p, lalu di tambahkan tag <br untuk membuat garis baru.
 ![Screenshot (407)](https://github.com/user-attachments/assets/1d408bc1-7c74-497c-95a1-12a7602e0942)
 #  Mengubah paragraf jadi ada di sebelah kanan dengan perintah <p align="right"
-dengan menambahkan perintah <p align="right", posisi teks akan berubah sesuai perintah.
+Dengan menambahkan perintah <p align="right", posisi teks akan berubah sesuai perintah.
  ![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
 #  Mengubah semua paragraf jadi ada di tengah dengan perintah <p align="center"
 ![Screenshot (409)](https://github.com/user-attachments/assets/4325a1a1-55d5-461b-af7b-22553ee57701)
 #  Menambahkan judul 
-dengan menggunakan tag <h1, kita dapat membuat judul.
+Dengan menggunakan tag <h1, kita dapat membuat judul.
 ![Screenshot (410)](https://github.com/user-attachments/assets/9965cd7f-b501-4106-af4d-eff9494683ba)
 #  Mengubah penempatan paragraf
 ![Screenshot (411)](https://github.com/user-attachments/assets/7aa8fcbd-cf3f-4856-bd39-027d6021f110)
 #  Memformat teks
-memformat teks dapat menggunakan perintah sebagai berikut: <mark untuk menandai teks yang penting, <i untuk italic <br>
+Memformat teks dapat menggunakan perintah sebagai berikut: <mark untuk menandai teks yang penting, <i untuk italic <br>
 atau teks miring, <u untuk underline, <b untuk menebalkan teks.
 ![Screenshot (412)](https://github.com/user-attachments/assets/450a07e3-7b6b-4bd8-b00f-20fb40520922)
 #  Menyisipkan gambar
-menyisipkan gambar tanpa mengisi width dan height membuat ukuran gambar tidak beraturan.
+Menyisipkan gambar tanpa mengisi width dan height membuat ukuran gambar tidak beraturan.
 ![Screenshot (413)](https://github.com/user-attachments/assets/c55a70ce-6df6-4737-91f2-f2277007beb8)
 #  Mengubah ukuran gambar dengan mengisi atribut widht dan height
-tampilan setelah mengisi atribut width dan height, gambar jadi mengikuti ukuran yang disesuaikan.
+Tampilan setelah mengisi atribut width dan height, gambar jadi mengikuti ukuran yang disesuaikan.
 ![Screenshot (415)](https://github.com/user-attachments/assets/da72f95b-699a-44d4-84b6-c1dbdab5d1b3)
 #  Menambahkan Hyperlink
-dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman lain.
+Dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman lain.
 ![Screenshot (423)](https://github.com/user-attachments/assets/7537188a-a535-49c5-afb2-f33cb7df17c0)
 
 
