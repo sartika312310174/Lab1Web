@@ -1,10 +1,10 @@
 # Lab1Web
 # TUGAS 2
 # PRAKTIKUM 1
-Membuat tampilan web sederhana
+# Membuat tampilan web sederhana
 ![Screenshot (407)](https://github.com/user-attachments/assets/1d408bc1-7c74-497c-95a1-12a7602e0942)
-Menambahkan
-![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
+#  Mengubah paragraf jadi ada di sebelah kanan dengan perintah <p align="right"
+ ![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 2. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
