@@ -6,6 +6,7 @@
 #  Mengubah paragraf jadi ada di sebelah kanan dengan perintah <p align="right"
  ![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
 #
+![Screenshot (409)](https://github.com/user-attachments/assets/4325a1a1-55d5-461b-af7b-22553ee57701)
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 2. Apa perbedaan dari tag <p dengan tag <br, berikan penjelasannya!
