@@ -39,10 +39,10 @@
    ![image](https://github.com/user-attachments/assets/b4f9ae35-0137-4d86-bf9e-9a3614840357)
 6. pada atribut _blank, kita akan di membuka tab baru, tapi tampilan akan terlihat sama
    ![image](https://github.com/user-attachments/assets/2d5f21ce-f8ed-46ac-9d11-ba8eeccded09)
-
+   
    pada atribut _self, kita akan berganti tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini
-   ![image](https://github.com/user-attachments/assets/c5dbd896-4e1a-4d77-b4a6-7d7b950bf757)
-
+   ![image](https://github.com/user-attachments/assets/2d5f21ce-f8ed-46ac-9d11-ba8eeccded09)
+   
    pada atribut _parent, kita akan berganti tab pada tab induk
    ![image](https://github.com/user-attachments/assets/7cbeda13-54b7-461f-92e4-691ba65b48c0)
 
