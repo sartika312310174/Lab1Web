@@ -34,16 +34,16 @@
    di sebuah paragraf, tag br tidak menggunakan penutup.
 3. Perbedaan keduanya adalah, title digunakan untuk menulis informasi singkat sedangkan alt atau alternative text digunakan untuk menulis deskripsi singkat pada sebuah image.
 4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar jadi tidak beraturan atau ukurannya mengikuti ukuran aslinya, contohnya seperti di bawah ini
-  ![image](https://github.com/user-attachments/assets/e2398d94-c1ca-4705-91ca-7d969df313e3)
+  
    ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200
-   ![image](https://github.com/user-attachments/assets/2c831378-803a-4fc3-80f3-b43651dd75c5)
+  
 6. pada atribut _blank, kita akan di arahkan ke tab baru,
    pada atribut _self, kita akan berpindah tab tapi di tab yang sama,
    pada atribut _parent, kita akan berganti tab pada tab induk,
    pada atribut _top, kita akan ditampilkan tab utama
    
 # TAMPILAN SETELAH DIBERI ATRIBUT TARGET
-   ![image](https://github.com/user-attachments/assets/aaa31b80-48eb-4c1a-a2c6-32b2b1d2bb07)
+   
 
 
 
