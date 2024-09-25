@@ -44,7 +44,8 @@ Dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman 
    ![image](https://github.com/user-attachments/assets/3730ed5a-4c6d-49c1-b0a6-6467b72f7d74)
    ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200
    ![image](https://github.com/user-attachments/assets/b4f9ae35-0137-4d86-bf9e-9a3614840357)
-6. pada atribut _blank, kita akan di membuka tab baru, tapi tampilan akan terlihat sama
+   
+5. pada atribut _blank, kita akan membuka tab baru, tapi tampilan akan terlihat sama
    ![Screenshot (427)](https://github.com/user-attachments/assets/fadb835c-6297-44ca-813e-702983526c4f)
    
    pada atribut _self, kita akan berganti tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini
