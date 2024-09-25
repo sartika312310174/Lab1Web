@@ -9,7 +9,7 @@
 ![Screenshot (409)](https://github.com/user-attachments/assets/4325a1a1-55d5-461b-af7b-22553ee57701)
 #  Menambahkan judul 
 ![Screenshot (410)](https://github.com/user-attachments/assets/9965cd7f-b501-4106-af4d-eff9494683ba)
-#  Mengubah penempatan paragraf
+#  Memformat teks
 ![Screenshot (411)](https://github.com/user-attachments/assets/7aa8fcbd-cf3f-4856-bd39-027d6021f110)
 #  Menyisipkan gambar
 ![Screenshot (412)](https://github.com/user-attachments/assets/450a07e3-7b6b-4bd8-b00f-20fb40520922)
