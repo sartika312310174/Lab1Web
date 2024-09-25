@@ -17,7 +17,8 @@
 #  Mengubah ukuran gambar dengan mengisi atribut widht dan height
 ![Screenshot (415)](https://github.com/user-attachments/assets/da72f95b-699a-44d4-84b6-c1dbdab5d1b3)
 #  Menambahkan Hyperlink
-![Screenshot (417)](https://github.com/user-attachments/assets/fc38b87b-0d14-449d-a3f1-f20e3bebaf65)
+![Screenshot (423)](https://github.com/user-attachments/assets/7537188a-a535-49c5-afb2-f33cb7df17c0)
+
 
 # TUGAS 2
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
