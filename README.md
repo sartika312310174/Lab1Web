@@ -37,6 +37,8 @@
    pada atribut _parent, kita akan berganti tab pada tab induk,
    pada atribut _top, kita akan ditampilkan tab utama
    
+# TAMPILAN SETELAH DIBERI ATRIBUT TARGET
+   
 
 
 
