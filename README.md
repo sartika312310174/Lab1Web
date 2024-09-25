@@ -22,6 +22,8 @@
 ![Screenshot (413)](https://github.com/user-attachments/assets/c55a70ce-6df6-4737-91f2-f2277007beb8)
 #  Mengubah ukuran gambar dengan mengisi atribut widht dan height
 ![Screenshot (415)](https://github.com/user-attachments/assets/da72f95b-699a-44d4-84b6-c1dbdab5d1b3)
+#  Menambahkan 
+![Screenshot (417)](https://github.com/user-attachments/assets/fc38b87b-0d14-449d-a3f1-f20e3bebaf65)
 
 # JAWABAN
 1. Saat melakukan perubahan pada kode tidak terjadi error apabila penulisan tag benar, namun jika penulisan tag salah atau error, tampilan paragraf tidak berubah.
