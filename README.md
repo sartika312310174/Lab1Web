@@ -34,6 +34,8 @@
 4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar jadi tidak beraturan atau ukurannya mengikuti ukuran aslinya, contohnya seperti di bawah ini
   ![image](https://github.com/user-attachments/assets/e2398d94-c1ca-4705-91ca-7d969df313e3)
    ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200.
+   <img src="https://github.com/user-attachments/assets/2c831378-803a-4fc3-80f3-b43651dd75c5" alt="tampilan halaman 2" title="foto jadi lebih kecil">
+
    ![image](https://github.com/user-attachments/assets/2c831378-803a-4fc3-80f3-b43651dd75c5)
 6. pada atribut _blank, kita akan di arahkan ke tab baru,
    pada atribut _self, kita akan berpindah tab tapi di tab yang sama,
