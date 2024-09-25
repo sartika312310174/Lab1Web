@@ -1,6 +1,8 @@
 # Lab1Web
 # PRAKTIKUM 1
 # Membuat paragraf
+membuat paragraf dengan tag <p, 
+lalu di tambahkan tag <br untuk membuat garis baru.
 ![Screenshot (407)](https://github.com/user-attachments/assets/1d408bc1-7c74-497c-95a1-12a7602e0942)
 #  Mengubah paragraf jadi ada di sebelah kanan dengan perintah <p align="right"
  ![Screenshot (408)](https://github.com/user-attachments/assets/6717326b-e00b-41d8-bc11-2c17ac009211)
