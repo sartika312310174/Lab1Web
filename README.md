@@ -26,5 +26,17 @@
 # JAWABAN
 1. Saat melakukan perubahan pada kode tidak terjadi error apabila penulisan tag benar, namun jika penulisan tag salah atau error, tampilan paragraf tidak berubah.
 
+2. Perbedaan dari tag "<pa>" dan "<br>", tag "<p>" digunakan untuk membuat paragraf baru sedangkan tag "</br>" digunakan untuk break atau membuat garis baru
+   di sebuah paragraf, tag br tidak menggunakan penutup.
+3. Perbedaan keduanya adalah, title digunakan untuk menulis informasi singkat sedangkan alt atau alternative text digunakan untuk menulis deskripsi singkat pada sebuah image.
+4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar tidak memiliki ukuran atau tidak muncul, contohnya seperti di bawah ini
+
+
+5. pada atribut _blank, kita akan di arahkan ke tab baru,
+   pada atribut _self, kita akan berpindah tab tapi di tab yang sama,
+   pada atribut _parent, kita akan berganti tab pada tab induk,
+   pada atribut _top, kita akan ditampilkan tab utama
+   
+
 
 
