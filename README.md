@@ -31,10 +31,10 @@
 2. Perbedaan dari tag "<pa>" dan "<br>", tag "<p>" digunakan untuk membuat paragraf baru sedangkan tag "</br>" digunakan untuk break atau membuat garis baru
    di sebuah paragraf, tag br tidak menggunakan penutup.
 3. Perbedaan keduanya adalah, title digunakan untuk menulis informasi singkat sedangkan alt atau alternative text digunakan untuk menulis deskripsi singkat pada sebuah image.
-4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar tidak memiliki ukuran atau tidak muncul, contohnya seperti di bawah ini
-  
-   ini perubahan jika atribut width dan height di isi
-   
+4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar jadi tidak beraturan atau ukurannya mengikuti ukuran aslinya, contohnya seperti di bawah ini
+  ![image](https://github.com/user-attachments/assets/e2398d94-c1ca-4705-91ca-7d969df313e3)
+   ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200.
+   ![image](https://github.com/user-attachments/assets/2c831378-803a-4fc3-80f3-b43651dd75c5)
 6. pada atribut _blank, kita akan di arahkan ke tab baru,
    pada atribut _self, kita akan berpindah tab tapi di tab yang sama,
    pada atribut _parent, kita akan berganti tab pada tab induk,
