@@ -37,7 +37,6 @@ Dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman 
    
 # JAWABAN
 1. Saat melakukan perubahan pada kode tidak terjadi error apabila penulisan tag benar, namun jika penulisan tag salah atau error, tampilan paragraf tidak berubah.
-
 2. Perbedaan dari tag "<p" dan "<br", tag "<p" digunakan untuk membuat paragraf baru sedangkan tag "<br" digunakan untuk break atau membuat garis baru
    di sebuah paragraf, tag br tidak menggunakan penutup.
 3. Perbedaan keduanya adalah, title digunakan untuk menulis informasi singkat sedangkan alt atau alternative text digunakan untuk menulis deskripsi singkat pada sebuah image.
