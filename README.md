@@ -42,23 +42,24 @@ Dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman 
 3. Perbedaan keduanya adalah, title digunakan untuk menulis informasi singkat sedangkan alt atau alternative text digunakan untuk menulis deskripsi singkat pada sebuah image.
 4. Dalam menyisipkan foto atribut width dan height harus sama-sama diisi, jika tidak maka gambar jadi tidak beraturan atau ukurannya mengikuti ukuran aslinya, contohnya seperti di bawah ini
    ![image](https://github.com/user-attachments/assets/3730ed5a-4c6d-49c1-b0a6-6467b72f7d74)
-   ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200
+   Ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200.
    ![image](https://github.com/user-attachments/assets/b4f9ae35-0137-4d86-bf9e-9a3614840357)
    
-5. pada atribut _blank, kita akan membuka tab baru, tapi tampilan akan terlihat sama
+5. Pada atribut _blank, kita akan membuka tab baru, tapi tampilan akan terlihat sama.
    ![Screenshot (427)](https://github.com/user-attachments/assets/fadb835c-6297-44ca-813e-702983526c4f)
    
-   pada atribut _self, kita akan berganti tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini
+   Pada atribut _self, kita akan berganti tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini.
    ![image](https://github.com/user-attachments/assets/2d5f21ce-f8ed-46ac-9d11-ba8eeccded09)
    
-   pada atribut _parent, kita akan berganti tab pada tab induk
+   Pada atribut _parent, kita akan berganti tab pada tab induk.
    ![image](https://github.com/user-attachments/assets/7cbeda13-54b7-461f-92e4-691ba65b48c0)
 
-   pada atribut _top, kita akan berganti tab di jendela utama
+   Pada atribut _top, kita akan berganti tab di jendela utama.
    ![image](https://github.com/user-attachments/assets/e697dbde-2108-4525-bcc1-5299331d073c)
 
    
 # TAMPILAN SETELAH DIBERI ATRIBUT TARGET
+   Terdapat 4 atribut target yang di tampilkan yang terdiri dari _blank, _self, _top, dan _parent.
 ![image](https://github.com/user-attachments/assets/89954b91-8f24-441b-8e35-5710d28eeafb)
 
    
