@@ -42,7 +42,8 @@
    pada atribut _top, kita akan ditampilkan tab utama
    
 # TAMPILAN SETELAH DIBERI ATRIBUT TARGET
-   
+   ![image](https://github.com/user-attachments/assets/aaa31b80-48eb-4c1a-a2c6-32b2b1d2bb07)
+
 
 
 
