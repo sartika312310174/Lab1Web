@@ -37,16 +37,16 @@
    ![image](https://github.com/user-attachments/assets/3730ed5a-4c6d-49c1-b0a6-6467b72f7d74)
    ini perubahan jika atribut width dan height di isi dengan width= 200 dan height= 200
    ![image](https://github.com/user-attachments/assets/b4f9ae35-0137-4d86-bf9e-9a3614840357)
-6. pada atribut _blank, kita akan di arahkan ke tab baru, tampilan barnya akan terlihat sama
+6. pada atribut _blank, kita akan di membuka tab baru, tapi tampilan akan terlihat sama
    ![image](https://github.com/user-attachments/assets/2d5f21ce-f8ed-46ac-9d11-ba8eeccded09)
 
-   pada atribut _self, kita akan berpindah tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini
+   pada atribut _self, kita akan berganti tab tapi mengarah ke tab yang sama, tampilan barnya akan seperti di bawah ini
    ![image](https://github.com/user-attachments/assets/c5dbd896-4e1a-4d77-b4a6-7d7b950bf757)
 
    pada atribut _parent, kita akan berganti tab pada tab induk
    ![image](https://github.com/user-attachments/assets/7cbeda13-54b7-461f-92e4-691ba65b48c0)
 
-   pada atribut _top, kita akan ditampilkan tab utama
+   pada atribut _top, kita akan berganti tab di jendela utama
    ![image](https://github.com/user-attachments/assets/e697dbde-2108-4525-bcc1-5299331d073c)
 
    
