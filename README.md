@@ -29,6 +29,9 @@ Tampilan setelah mengisi atribut width dan height, gambar jadi mengikuti ukuran 
 #  Menambahkan Hyperlink
 Dengan menambahkan hyperlink, kita dapat berpindah ke halaman baru atau halaman lain.
 ![Screenshot (423)](https://github.com/user-attachments/assets/7537188a-a535-49c5-afb2-f33cb7df17c0)
+HASIL VALIDASI 
+![Screenshot (453)](https://github.com/user-attachments/assets/82732c01-35e8-483d-9148-7feef273694f)
+
 
 
 # TUGAS 2
