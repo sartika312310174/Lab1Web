@@ -1,4 +1,7 @@
 # Lab1Web
+nama: sartika agustin
+nim: 312310174
+kelas: TI.23.A2
 # PRAKTIKUM 1
 # Membuat paragraf 
 Membuat paragraf dengan tag <p, lalu di tambahkan tag <br untuk membuat garis baru.
